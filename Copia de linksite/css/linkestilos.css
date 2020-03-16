@@ -1,0 +1,157 @@
+@charset "UTF-8";
+@import url("../webfonts/Pacifico_Regular/stylesheet.css");
+
+body {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    background-color: #41CAEE;
+}
+#cabeza h2 {
+	color: #FEFDFD;
+	text-align: center;
+	padding-top: 36px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 71px;
+	text-shadow: 3px 3px 2px #974103;
+}
+#cabezacontacto h2 {
+	color: #FEFDFD;
+	text-align: left;
+	padding-top: 36px;
+	padding: 20px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 71px;
+	text-shadow: 3px 3px 2px #974103;
+}
+#cabezaservicio h2 {
+	color:cornflowerblue;
+	text-align: right;
+	padding-top: 36px;
+	padding-right: 200px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 71px;
+	text-shadow: 3px 3px 2px #000;
+}
+#cabezanosotros h2 {
+	color:darkgreen;
+	text-align: right;
+	padding-top: 36px;
+	padding-right: 200px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 71px;
+	text-shadow: 3px 3px 2px #000;
+}
+
+#navegacion {
+    width: 960px;
+    height: 100px;
+    text-align: center;
+    color: #EE6700;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-transform: capitalize;
+    display: inline;
+    float: none;
+    clear: none;
+    overflow-y: auto;
+    margin: 0 auto;
+    text-decoration: none;
+}
+#navegacion ul li {
+    display: inline;
+    color: #B95700;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    width: 960px;
+    margin: 0 auto;
+    height: 100px;
+}
+ul li a {
+    color: #D25E00;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    border-left-width: 44px;
+    border-left-style: dotted;
+    width: 960px;
+    height: 200px;
+    margin: 0 auto;
+    display: inline;
+}
+
+
+
+#contenido {
+    height: 320px;
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+	padding-top: 5px;
+    text-align: center;
+    background-color: #D26D12;
+    width: 903px;
+}
+#contenido p {
+    text-align: justify;
+}
+
+#pie {
+    text-align: center;
+    width: 1256px;
+    height: 250px;
+    margin: 0;
+    padding-left: 270px;
+}
+
+
+#cabeza {
+    text-align: right;
+    width: 960px;
+    height: 250px;
+    background-image: url("../image/banner.png");
+    margin: 0 auto;
+    background-size: 960px 250px;
+}
+#cabezacontacto {
+	text-align: right;
+	width: 960px;
+	height: 250px;
+	background-image: url(../image/banner4.jpg);
+	margin: 0 auto;
+}
+#cabezaservicio {
+	text-align: right;
+	width: 960px;
+	height: 250px;
+	background-image: url(../image/banner3.jpg);
+	margin: 0 auto;
+}
+#cabezanosotros {
+	text-align: right;
+	width: 960px;
+	height: 250px;
+	background-image: url(../image/banner2.jpg);
+	margin: 0 auto;
+}
+#pie h4 {
+    width: 960px;
+    height: 24px;
+}
+#contenido p1contact {
+    text-align: center;
+    width: 0;
+    height: 0;
+
+
+}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3bPjVtRkLmw?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
